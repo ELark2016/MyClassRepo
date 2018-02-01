@@ -23,3 +23,15 @@
     
 }
 
+/* Playing around with CSS Pseudo Classes */
+
+h4:hover {
+    background: rgb(0, 89, 255);
+}
+
+a:default {
+    color: blueviolet;
+}
+a:active {
+    color: black;
+}
